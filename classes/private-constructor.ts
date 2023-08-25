@@ -29,6 +29,6 @@
 
     apocalipsis1.changeName('Xavier')
 
-    console.log (apocalipsis1, apocalipsis2)
+    // console.log (apocalipsis1, apocalipsis2)
 
 })()
